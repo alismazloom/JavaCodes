@@ -1,2 +1,2 @@
 # JavaCodes
-Ali's Java codes since July 2016
+Java codes by Ali since July 2016
